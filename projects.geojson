@@ -6,7 +6,8 @@
       "properties": {
         "Project Name": "Green Roof Feasibility Study",
         "id": 444,
-        "Project Lead": "Greenpoint Reformed ChurchGreenpoint Reformed Church"
+        "Project Lead": "Greenpoint Reformed ChurchGreenpoint Reformed Church",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Reform-Church-3-sm.jpg"
       },
       "geometry": {
         "type": "Point",
