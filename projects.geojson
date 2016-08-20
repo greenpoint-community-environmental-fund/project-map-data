@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Green Roof Feasibility Study",
-        "Group Name": "Greenpoint Reformed Church",
-        "id": 444
+        "id": 444,
+        "Project Lead": "Greenpoint Reformed ChurchGreenpoint Reformed Church"
       },
       "geometry": {
         "type": "Point",
