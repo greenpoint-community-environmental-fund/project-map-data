@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Green Roof Feasibility Study",
+        "Group Name": "Greenpoint Reformed Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95497739315033,
+          40.72922633618936
+        ]
+      }
+    }
+  ]
+}
