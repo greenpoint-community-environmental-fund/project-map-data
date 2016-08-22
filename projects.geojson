@@ -17,6 +17,23 @@
           40.72922633618936
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "The Living Dock",
+        "id": 453,
+        "Project Lead": "Newtown Creek Alliance",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/LivingDockCelebration4_sm-585x347.jpg",
+        "Category": "Waterfront Restoration and Infrastructure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94491910934448,
+          40.736010750005384
+        ]
+      }
     }
   ]
 }
