@@ -34,6 +34,23 @@
           40.736010750005384
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Category": "Parks and Open Space",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Dupont1_web.jpg",
+        "Project Lead": "Dupont Street Senior HDFC",
+        "id": 1366,
+        "Project Name": "Dupont Street Senior HDFC Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9570426940918,
+          40.7355189134248
+        ]
+      }
     }
   ]
 }
