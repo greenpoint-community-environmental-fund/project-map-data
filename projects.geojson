@@ -51,6 +51,21 @@
           40.7355189134248
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Environmental Education Shed",
+        "id": 434,
+        "Project Lead": "NBBC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95363628864287,
+          40.73857555787898
+        ]
+      }
     }
   ]
 }
