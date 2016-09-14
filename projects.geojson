@@ -68,6 +68,40 @@
           40.73857555787898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Environmentally Themed Mural",
+        "id": 560,
+        "Project Lead": "Greenpoint Chamber of Commerce and Groundswell Community Mural Project, Inc",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/EJ-Mural-2sm-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94834160804749,
+          40.71961152742591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Lead": "North Brooklyn Boat Club",
+        "Category": "Environmental Education and Stewardship",
+        "Project Name": "Floating Classrooms on Greenpoint's Waterways",
+        "id": 561,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/fc2_sm-585x347.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95354509353638,
+          40.73930718066654
+        ]
+      }
     }
   ]
 }
