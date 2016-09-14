@@ -227,7 +227,7 @@
       "properties": {
         "Project Name": "Brooklyn Native Wildlife Restoration Project at MS 126",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Wildlife-Restoration-1-585x347.png",
-        "Category": "Green Streets  Community Greening and",
+        "Category": "Green Streets and Community Greening",
         "Project Lead": "Center for Educational Innovation - Public Education Association and MS 126",
         "id": 449
       },
@@ -236,6 +236,47 @@
         "coordinates": [
           -73.94797146320343,
           40.71975586146205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Creating Green Buffers in the Greenpoint Industrial Area: A Community Planning Initiative",
+        "id": 1381,
+        "Project Lead": "New York City Soil & Water Conservation District",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/green-buffers3_web-585x347.jpg",
+        "Category": "Green Streets and Community Greening"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9419686794281,
+              40.72773846931516
+            ],
+            [
+              -73.94168972969054,
+              40.725884686994796
+            ],
+            [
+              -73.93702268600464,
+              40.72634000673465
+            ],
+            [
+              -73.93723726272583,
+              40.72777099135111
+            ],
+            [
+              -73.93817067146301,
+              40.728096210836284
+            ],
+            [
+              -73.9419686794281,
+              40.72773846931516
+            ]
+          ]
         ]
       }
     }
