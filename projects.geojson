@@ -102,6 +102,40 @@
           40.73930718066654
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "For the Birds! Greenpoint at PS 110 The Monitor School",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/For-the-Birds-3-585x347.jpg",
+        "Category": "Environmental Education and Stewardship",
+        "Project Lead": " Audubon New York/National Audubon Society ",
+        "id": 576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94206523895264,
+          40.723616172583625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "For the Birds! Greenpoint at St. Stan Kostka Catholic Academy",
+        "Project Lead": "Audubon New York/National Audubon Society",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/birds2_ststan_sm-585x347.jpg",
+        "id": 562,
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94627094268799,
+          40.72334378303727
+        ]
+      }
     }
   ]
 }
