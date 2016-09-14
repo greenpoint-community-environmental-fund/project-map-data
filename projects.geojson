@@ -420,6 +420,74 @@
           40.72337224169876
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Monitor Museum USS Monitor Park",
+        "id": 1419,
+        "Project Lead": "The Greenpoint Monitor Museum",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/monitor-museum1-585x347.jpg",
+        "Category": "Waterfront Restoration and Infrastructure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95966053009033,
+          40.72577085657307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Newtown Creek SAMPLES: Studying Water Quality for Public Learning and Ecological Services",
+        "id": 1357,
+        "Project Lead": "Newtown Creek Alliance",
+        "Category": "Waterfront Restoration and Infrastructure",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SAMPLES1_web-585x347.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96034717559814,
+          40.73756753107997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "North Henry Street End Restoration Planning",
+        "id": 452,
+        "Category": "Waterfront Restoration and Infrastructure",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/North-Henry-1-sm-585x347.jpg",
+        "Project Lead": "Newtown Creek Alliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9445972442627,
+          40.735689633972214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "West Street Watershed Stormwater Project",
+        "id": 1131,
+        "Project Lead": "Brooklyn Greenway Initiative ",
+        "Category": "Waterfront Restoration and Infrastructure",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/west-st-stroke-585x347.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95930647850037,
+          40.73011253616943
+        ]
+      }
     }
   ]
 }
