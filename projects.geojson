@@ -369,6 +369,40 @@
           40.73140522873709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1412,
+        "Project Name": "McCarren Park Urban Farms and Green Infrastructure Corridor",
+        "Project Lead": "GrowNYC",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/mccarren-farm1-585x347.jpg",
+        "Category": "Parks and Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94891023635864,
+          40.720188861692684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "McGolrick Park Restoration",
+        "id": 1416,
+        "Project Lead": "Horticultural Society of New York",
+        "Category": "Parks and Open Space",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/09/23.-October-09-2013-585x347.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94357800483704,
+          40.72358364851729
+        ]
+      }
     }
   ]
 }
