@@ -242,6 +242,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f5d04e",
+        "fill-opacity": 0.5,
         "Project Name": "Creating Green Buffers in the Greenpoint Industrial Area: A Community Planning Initiative",
         "id": 1381,
         "Project Lead": "New York City Soil & Water Conservation District",
