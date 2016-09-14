@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#f5d04e",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#f5d04e",
@@ -316,6 +316,57 @@
         "coordinates": [
           -73.95072877407074,
           40.7259944518599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Lead": "New York City Audubon Society",
+        "Project Name": "Newtown Creek Wildflower Roof and Community Space",
+        "id": 1409,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/nc_wildflower2_web-585x347.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94334733486176,
+          40.734807573095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "61 Franklin St. Garden Infrastructure and Rain Harvest Build",
+        "id": 451,
+        "Project Lead": "61 Franklin Street Garden",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/61franklin1_sm-585x347.jpg",
+        "Category": "Parks and Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95745575428009,
+          40.7275433367658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Improving Sustainable Practices at Java St. Community Garden",
+        "id": 476,
+        "Category": "Parks and Open Space",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Java5_sm-585x347.jpg",
+        "Project Lead": "Java Street Community Garden, Open Space Alliance for North Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95881295204161,
+          40.73140522873709
         ]
       }
     }
