@@ -136,6 +136,57 @@
           40.72334378303727
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Green Beans Environmental Education",
+        "Project Lead": "YMCA of Greater New York – Greenpoint Branch",
+        "Category": "Environmental Education and Stewardship",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Cover-Image14-585x347.jpg",
+        "id": 577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94527584314345,
+          40.720054692908285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Green Design Lab Environmental Education Program",
+        "Project Lead": "Solar One",
+        "Category": "Environmental Education and Stewardship",
+        "id": 1157,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94778370857239,
+          40.71961965892921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Green Design Lab Environmental Education Program",
+        "id": 1157,
+        "Project Lead": "Solar One",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9420223236084,
+          40.72346981415998
+        ]
+      }
     }
   ]
 }
