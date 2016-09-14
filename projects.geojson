@@ -57,7 +57,9 @@
       "properties": {
         "Project Name": "Environmental Education Shed",
         "id": 434,
-        "Project Lead": "NBBC"
+        "Project Lead": "North Brooklyn Boat Club",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/ed_shed1sm-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
       },
       "geometry": {
         "type": "Point",
