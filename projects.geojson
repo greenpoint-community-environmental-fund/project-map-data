@@ -390,17 +390,34 @@
     {
       "type": "Feature",
       "properties": {
-        "Project Name": "McGolrick Park Restoration",
-        "id": 1416,
-        "Project Lead": "Horticultural Society of New York",
+        "Project Name": "Urban Oasis in McGolrick Park",
+        "Project Lead": "New York Audubon Society",
         "Category": "Parks and Open Space",
-        "Image URL": "http://gcefund.org/wp-content/uploads/2014/09/23.-October-09-2013-585x347.png"
+        "id": 481,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Urban-Oasis-7-sm-585x347.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.94357800483704,
-          40.72358364851729
+          -73.94391059875488,
+          40.72378692367114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "McGolrick Park Restoration",
+        "id": 1416,
+        "Project Lead": "Horticultural Society of New York",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/09/23.-October-09-2013-585x347.png",
+        "Category": "Parks and Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94372820854187,
+          40.72337224169876
         ]
       }
     }
