@@ -279,6 +279,40 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Keeping Cigarette Butts out of Newton Creek",
+        "id": 450,
+        "Project Lead": "North Brooklyn Boat Club",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/cig-butts2_LTruettner_sm-585x347.jpg",
+        "Category": "Green Streets and Community Greening"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95442485809326,
+          40.7393884715907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Environmental Education Center at Greenpoint Library",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "Project Lead": "Brooklyn Public Library ",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/BPL-Greenpoint-exterior-rendering-585x347.jpg",
+        "id": 1123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95072877407074,
+          40.7259944518599
+        ]
+      }
     }
   ]
 }
