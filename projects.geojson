@@ -488,6 +488,21 @@
           40.73011253616943
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Bioremediation",
+        "Project Lead": "Newtown Creek Alliance",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95881295204161,
+          40.73136457840986
+        ]
+      }
     }
   ]
 }
