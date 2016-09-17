@@ -573,6 +573,74 @@
           40.72592330798646
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
+        "id": 1121,
+        "Project Lead": "National Wildlife Federation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95404398441315,
+          40.72684004178843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Category": "Environmental Education and Stewardship",
+        "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
+        "id": 1121,
+        "Project Lead": "National Wildlife Federation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9496961236,
+          40.72628512460968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
+        "id": 1121,
+        "Project Lead": "National Wildlife Federation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9420759677887,
+          40.72380725115237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
+        "id": 1121,
+        "Project Lead": "National Wildlife Federation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94775688648224,
+          40.71946109443547
+        ]
+      }
     }
   ]
 }
