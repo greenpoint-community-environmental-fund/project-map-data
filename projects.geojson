@@ -641,6 +641,23 @@
           40.71946109443547
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Soil Cycle: A Mobile Compost Initiative",
+        "id": 588,
+        "Project Lead": "Eyebeam Atelier",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SCkidsonbike_sm-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94810557365417,
+          40.719501752033985
+        ]
+      }
     }
   ]
 }
