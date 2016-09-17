@@ -492,15 +492,85 @@
     {
       "type": "Feature",
       "properties": {
-        "Project Name": "Bioremediation",
+        "Project Name": "Greenpoint Bioremediation Project",
         "Project Lead": "Newtown Creek Alliance",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "id": 1390,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.95881295204161,
           40.73136457840986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Bioremediation Project",
+        "id": 1390,
+        "Project Lead": "Newtown Creek Alliance",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9573484659195,
+          40.72753114096248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Bioremediation Project",
+        "id": 1390,
+        "Project Lead": "Newtown Creek Alliance",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9533519744873,
+          40.73849426596145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Bioremediation Project",
+        "id": 1390,
+        "Project Lead": "Newtown Creek Alliance",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94549846649169,
+          40.73238082914018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Bioremediation Project",
+        "id": 1390,
+        "Project Lead": "Newtown Creek Alliance",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95069390535353,
+          40.72592330798646
         ]
       }
     }
