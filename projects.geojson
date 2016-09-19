@@ -658,6 +658,20 @@
           40.719501752033985
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Parks Community Stewardship",
+        "id": 1362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.943030834198,
+          40.72446179272971
+        ]
+      }
     }
   ]
 }
