@@ -663,13 +663,84 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Parks Community Stewardship",
-        "id": 1362
+        "id": 1362,
+        "Project Lead": "Open Space Alliance for North Brooklyn",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
+        "Category": "Parks and Open Space"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.943030834198,
           40.72446179272971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Parks Community Stewardship",
+        "Project Lead": "Open Space Alliance for North Brooklyn",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
+        "Category": "Parks and Open Space",
+        "id": 1362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96071195602417,
+          40.729836108084385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Parks Community Stewardship",
+        "id": 1362,
+        "Project Lead": "Open Space Alliance for North Brooklyn",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
+        "Category": "Parks and Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9578366279602,
+          40.728762905812104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Parks Community Stewardship",
+        "id": 1362,
+        "Project Lead": "Open Space Alliance for North Brooklyn",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
+        "Category": "Parks and Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95885050296783,
+          40.735738411191015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Parks Community Stewardship",
+        "id": 1362,
+        "Project Lead": "Open Space Alliance for North Brooklyn",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
+        "Category": "Parks and Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95988583564758,
+          40.735892872147964
         ]
       }
     }
