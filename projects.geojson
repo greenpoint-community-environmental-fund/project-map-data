@@ -743,6 +743,91 @@
           40.735892872147964
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Go Green Activity Hub",
+        "id": 1385,
+        "Project Lead": "Town Square Inc.",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gogreen2_website-585x347.jpg",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9644455909729,
+          40.72407150784349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Lead": "Greenpoint Waterfront Association for Parks and Planning",
+        "Project Name": "Greenpoint Environmental Forum (Panel Discussion Series)",
+        "Category": "Environmental Education and Stewardship",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gwapp_mtg1_sm-585x347.jpg",
+        "id": 437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96370530128479,
+          40.72380318565662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Lead": "Neighbors Allied for Good Growth",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_leadinsoil2_web-585x347.jpg",
+        "id": 1349,
+        "Project Name": "Greenpoint Lead in Garden Soil Outreach Project",
+        "Category": "Environmental Education and Stewardship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9640486240387,
+          40.72321775167592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Curb Your Litter: Greenpoint",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/cyl_dayof2_sm-585x347.jpg",
+        "id": 1118,
+        "Project Lead": "Greenpoint Chamber of Commerce",
+        "Category": "Green Streets and Community Greening"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96327614784241,
+          40.72325840697985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greening Greenpoint",
+        "Project Lead": "City Parks Foundation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/India-St-Ash-Trees-585x347.jpg",
+        "Category": "Green Streets and Community Greening",
+        "id": 1125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96295428276062,
+          40.72398206723472
+        ]
+      }
     }
   ]
 }
