@@ -828,6 +828,74 @@
           40.72398206723472
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Industrial Environmental Improvement Program",
+        "id": 1378,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Ind-Env-Imp-1_web-585x347.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "Project Lead": "Evergreen: Your North Brooklyn Business Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96397352218628,
+          40.724803290127724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Feasibility Study for Greenpoint Community Compost Site",
+        "id": 587,
+        "Project Lead": "Build It Green!NYC",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Compost-2sm-585x347.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9634370803833,
+          40.724559363593656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Business Environmental Stewardship",
+        "id": 1375,
+        "Project Lead": "New York City Industrial & Technology Assistance Corporation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_warehouse_flickr_DennisHurd_web-585x347.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96249294281006,
+          40.72442113816084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Reduce Reuse Recycle Greenpoint! (Restaurants)",
+        "id": 1370,
+        "Project Lead": "Neighbors Allied for Good Growth",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Recycle-Reuse3-585x347.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96288990974426,
+          40.72490899134819
+        ]
+      }
     }
   ]
 }
