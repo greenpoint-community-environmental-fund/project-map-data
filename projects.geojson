@@ -751,7 +751,8 @@
         "id": 1385,
         "Project Lead": "Town Square Inc.",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gogreen2_website-585x347.jpg",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "marker-color": ""
       },
       "geometry": {
         "type": "Point",
@@ -764,15 +765,15 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        "marker-size": "",
         "marker-symbol": "",
         "Project Lead": "Greenpoint Waterfront Association for Parks and Planning",
         "Project Name": "Greenpoint Environmental Forum (Panel Discussion Series)",
         "Category": "Environmental Education and Stewardship",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gwapp_mtg1_sm-585x347.jpg",
         "id": 437,
-        "Neighborhood Wide Box": "true"
+        "Neighborhood Wide Box": ""
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +790,8 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_leadinsoil2_web-585x347.jpg",
         "id": 1349,
         "Project Name": "Greenpoint Lead in Garden Soil Outreach Project",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "marker-color": ""
       },
       "geometry": {
         "type": "Point",
@@ -903,7 +905,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Neighborhood Wide Box": "true"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
