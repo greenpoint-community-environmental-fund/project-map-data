@@ -141,7 +141,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Green Beans Environmental Education",
-        "Project Lead": "YMCA of Greater New York – Greenpoint Branch",
+        "Project Lead": "YMCA of Greater New York â Greenpoint Branch",
         "Category": "Environmental Education and Stewardship",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Cover-Image14-585x347.jpg",
         "id": 577
@@ -756,8 +756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9644455909729,
-          40.72407150784349
+          -73.95223617553711,
+          40.7139883550567
         ]
       }
     },
@@ -773,8 +773,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96370530128479,
-          40.72380318565662
+          -73.95768642425537,
+          40.70777507149538
         ]
       }
     },
@@ -790,8 +790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9640486240387,
-          40.72321775167592
+          -73.9521074295044,
+          40.70761241230608
         ]
       }
     },
@@ -807,8 +807,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96327614784241,
-          40.72325840697985
+          -73.95807266235352,
+          40.71424858464975
         ]
       }
     },
@@ -824,8 +824,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96295428276062,
-          40.72398206723472
+          -73.9579439163208,
+          40.71083299030839
         ]
       }
     },
@@ -841,8 +841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96397352218628,
-          40.724803290127724
+          -73.95219326019287,
+          40.71050768647108
         ]
       }
     },
@@ -858,8 +858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9634370803833,
-          40.724559363593656
+          -73.9548110961914,
+          40.714053412550314
         ]
       }
     },
@@ -875,8 +875,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96249294281006,
-          40.72442113816084
+          -73.95511150360107,
+          40.71027997283941
         ]
       }
     },
@@ -892,8 +892,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.96288990974426,
-          40.72490899134819
+          -73.95472526550293,
+          40.70757988042052
         ]
       }
     }
