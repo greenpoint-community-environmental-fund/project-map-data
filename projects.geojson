@@ -764,11 +764,15 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Project Lead": "Greenpoint Waterfront Association for Parks and Planning",
         "Project Name": "Greenpoint Environmental Forum (Panel Discussion Series)",
         "Category": "Environmental Education and Stewardship",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gwapp_mtg1_sm-585x347.jpg",
-        "id": 437
+        "id": 437,
+        "Neighborhood Wide Box": "true"
       },
       "geometry": {
         "type": "Point",
