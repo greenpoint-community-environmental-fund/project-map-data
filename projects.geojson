@@ -940,6 +940,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Intertidal Wetland Project",
+        "Category": "Waterfront Restoration and Infrastructure",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/Constructed-Wetlands-with-Bulkheads_sm-585x347.jpg",
+        "Project Lead": "Research Foundation of CUNY (LaGuardia Community College)",
+        "id": 1128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96210670471191,
+          40.73455961839242
+        ]
+      }
     }
   ]
 }
