@@ -242,52 +242,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#f5d04e",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#f5d04e",
-        "fill-opacity": 0.5,
-        "Project Name": "Creating Green Buffers in the Greenpoint Industrial Area: A Community Planning Initiative",
-        "id": 1381,
-        "Project Lead": "New York City Soil & Water Conservation District",
-        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/green-buffers3_web-585x347.jpg",
-        "Category": "Green Streets and Community Greening"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -73.9419686794281,
-              40.72773846931516
-            ],
-            [
-              -73.94168972969054,
-              40.725884686994796
-            ],
-            [
-              -73.93702268600464,
-              40.72634000673465
-            ],
-            [
-              -73.93723726272583,
-              40.72777099135111
-            ],
-            [
-              -73.93817067146301,
-              40.728096210836284
-            ],
-            [
-              -73.9419686794281,
-              40.72773846931516
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Project Name": "Keeping Cigarette Butts out of Newton Creek",
         "id": 450,
         "Project Lead": "North Brooklyn Boat Club",
@@ -960,36 +914,18 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Project Name": "Creating Green Buffers in the Greenpoint Industrial Area: A Community Planning Initiative",
+        "Project Lead": "New York City Soil & Water Conservation District",
+        "id": 1381,
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/green-buffers3_web-585x347.jpg",
+        "Category": "Green Streets and Community Greening"
+      },
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -73.96738529205322,
-              40.73753501383214
-            ],
-            [
-              -73.96682739257812,
-              40.73623431088546
-            ],
-            [
-              -73.96476745605469,
-              40.73642941794871
-            ],
-            [
-              -73.9654541015625,
-              40.738250389612745
-            ],
-            [
-              -73.96725654602051,
-              40.73786018559518
-            ],
-            [
-              -73.96738529205322,
-              40.73753501383214
-            ]
-          ]
+          -73.93949031829834,
+          40.72696606629052
         ]
       }
     }
