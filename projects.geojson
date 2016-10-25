@@ -735,7 +735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "11222"
+        "GCEF Grant Money": "11222"
       },
       "geometry": {
         "type": "MultiPolygon",
