@@ -80,7 +80,8 @@
         "id": 560,
         "Project Lead": "Greenpoint Chamber of Commerce and Groundswell Community Mural Project, Inc",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/EJ-Mural-2sm-585x347.jpg",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$25,000"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +98,8 @@
         "Category": "Environmental Education and Stewardship",
         "Project Name": "Floating Classrooms on Greenpoint's Waterways",
         "id": 561,
-        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/fc2_sm-585x347.jpg"
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/fc2_sm-585x347.jpg",
+        "GCEF Grant Money": "$24,693"
       },
       "geometry": {
         "type": "Point",
@@ -114,7 +116,8 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/For-the-Birds-3-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
         "Project Lead": " Audubon New York/National Audubon Society ",
-        "id": 576
+        "id": 576,
+        "GCEF Grant Money": "$76,000"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +134,8 @@
         "Project Lead": "Audubon New York/National Audubon Society",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/birds2_ststan_sm-585x347.jpg",
         "id": 562,
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$72,260"
       },
       "geometry": {
         "type": "Point",
