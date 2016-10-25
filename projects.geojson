@@ -8,7 +8,8 @@
         "id": 444,
         "Project Lead": "Greenpoint Reformed Church",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Reform-Church-3-sm.jpg",
-        "Category": "Greening Community Buildings, Facilities and Infrastructure"
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "GCEF Grant Money": "$5,000"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "id": 453,
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/LivingDockCelebration4_sm-585x347.jpg",
-        "Category": "Waterfront Restoration and Infrastructure"
+        "Category": "Waterfront Restoration and Infrastructure",
+        "GCEF Grant Money": "$24,980"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Dupont1_web.jpg",
         "Project Lead": "Dupont Street Senior HDFC",
         "id": 1366,
-        "Project Name": "Dupont Street Senior HDFC Garden"
+        "Project Name": "Dupont Street Senior HDFC Garden",
+        "GCEF Grant Money": "$5,000"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +62,8 @@
         "id": 434,
         "Project Lead": "North Brooklyn Boat Club",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/ed_shed1sm-585x347.jpg",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$24,426"
       },
       "geometry": {
         "type": "Point",
