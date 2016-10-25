@@ -152,7 +152,8 @@
         "Project Lead": "YMCA of Greater New York â Greenpoint Branch",
         "Category": "Environmental Education and Stewardship",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Cover-Image14-585x347.jpg",
-        "id": 577
+        "id": 577,
+        "GCEF Grant Money": "$22,750"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +170,8 @@
         "Project Lead": "Solar One",
         "Category": "Environmental Education and Stewardship",
         "id": 1157,
-        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg"
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
+        "GCEF Grant Money": "$24,954"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +188,8 @@
         "id": 1157,
         "Project Lead": "Solar One",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$24,954"
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +206,8 @@
         "id": 1395,
         "Project Lead": "YMCA of Greater New York - Greenpoint Branch",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/greentweens_ymca1_web-585x347.jpg",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$84,110"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +224,8 @@
         "id": 1396,
         "Project Lead": "New York City Audubon Society",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Urban-Oasis-7-sm-585x347.jpg",
-        "Category": "Environmental Education and Stewardship"
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$5,669"
       },
       "geometry": {
         "type": "Point",
@@ -237,7 +242,8 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Wildlife-Restoration-1-585x347.png",
         "Category": "Green Streets and Community Greening",
         "Project Lead": "Center for Educational Innovation - Public Education Association and MS 126",
-        "id": 449
+        "id": 449,
+        "GCEF Grant Money": "$24,998"
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +260,8 @@
         "id": 450,
         "Project Lead": "North Brooklyn Boat Club",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/cig-butts2_LTruettner_sm-585x347.jpg",
-        "Category": "Green Streets and Community Greening"
+        "Category": "Green Streets and Community Greening",
+        "GCEF Grant Money": "$24,660"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +278,8 @@
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
         "Project Lead": "Brooklyn Public Library ",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/BPL-Greenpoint-exterior-rendering-585x347.jpg",
-        "id": 1123
+        "id": 1123,
+        "GCEF Grant Money": "$5,000,000"
       },
       "geometry": {
         "type": "Point",
@@ -288,7 +296,8 @@
         "Project Name": "Newtown Creek Wildflower Roof and Community Space",
         "id": 1409,
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/nc_wildflower2_web-585x347.jpg",
-        "Category": "Greening Community Buildings, Facilities and Infrastructure"
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "GCEF Grant Money": "$971,782"
       },
       "geometry": {
         "type": "Point",
@@ -305,7 +314,8 @@
         "id": 451,
         "Project Lead": "61 Franklin Street Garden",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/61franklin1_sm-585x347.jpg",
-        "Category": "Parks and Open Space"
+        "Category": "Parks and Open Space",
+        "GCEF Grant Money": "$25,000"
       },
       "geometry": {
         "type": "Point",
@@ -322,7 +332,8 @@
         "id": 476,
         "Category": "Parks and Open Space",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Java5_sm-585x347.jpg",
-        "Project Lead": "Java Street Community Garden, Open Space Alliance for North Brooklyn"
+        "Project Lead": "Java Street Community Garden, Open Space Alliance for North Brooklyn",
+        "GCEF Grant Money": "$49,398"
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +350,8 @@
         "Project Name": "McCarren Park Urban Farms and Green Infrastructure Corridor",
         "Project Lead": "GrowNYC",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/mccarren-farm1-585x347.jpg",
-        "Category": "Parks and Open Space"
+        "Category": "Parks and Open Space",
+        "GCEF Grant Money": "$477,084"
       },
       "geometry": {
         "type": "Point",
