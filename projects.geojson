@@ -774,6 +774,25 @@
           40.72696606629052
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Curb Your Litter: Greenpoint",
+        "id": "",
+        "GCEF Grant Money": "$471,600",
+        "Greenpoint Wide": "yes",
+        "Category": "Green Streets and Community Greening",
+        "Project Lead": "North Brooklyn Chamber of Commerce",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/cyl_dayof2_sm.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96571159362793,
+          40.72956780913897
+        ]
+      }
     }
   ]
 }
