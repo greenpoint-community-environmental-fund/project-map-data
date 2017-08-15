@@ -793,6 +793,119 @@
           40.72956780913897
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Feasibility Study for Community Compost Site",
+        "id": "",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96559357643127,
+          40.730364572540246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Go Green Activity Hub",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96517515182495,
+          40.72870599308711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greening Greenpoint",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96508932113647,
+          40.727876687858114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Business Environmental Stewardship",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96502494812012,
+          40.72712867819861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Environmental Forum (Panel Discussion Series)",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96393060684204,
+          40.72647822818215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Industrial Environmental Improvement Program",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96315813064575,
+          40.72597412504668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Greenpoint Lead in Garden Soil Outreach Project",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96227836608887,
+          40.72551880280358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Reduce Reuse Recycle Greenpoint! (Restaurants)",
+        "Greenpoint Wide": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96558284759521,
+          40.73174669050531
+        ]
+      }
     }
   ]
 }
