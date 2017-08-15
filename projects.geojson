@@ -798,8 +798,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Feasibility Study for Community Compost Site",
-        "id": "",
-        "Greenpoint Wide": "yes"
+        "id": 587,
+        "Greenpoint Wide": "yes",
+        "Project Lead": "Build It Green!NYC",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Compost-2sm.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "GCEF Grant Money": "$12,500"
       },
       "geometry": {
         "type": "Point",
@@ -813,7 +817,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Go Green Activity Hub",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 1385,
+        "Project Lead": "Town Square",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gogreen2_website.jpg",
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$58,450"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +836,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greening Greenpoint",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 1125,
+        "Project Lead": "City Parks Foundation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/India-St-Ash-Trees.jpg",
+        "Category": "Green Streets and Community Greening",
+        "GCEF Grant Money": "$1,950,719"
       },
       "geometry": {
         "type": "Point",
@@ -841,7 +855,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Business Environmental Stewardship",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 1375,
+        "Project Lead": "New York City Industrial & Technology Assistance Corporation",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_warehouse_flickr_DennisHurd_web.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "GCEF Grant Money": "$100,000"
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +874,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Environmental Forum (Panel Discussion Series)",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 437,
+        "Project Lead": "Greenpoint Waterfront Association for Parks and Planning",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gwapp_mtg1_sm.jpg",
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$11,700"
       },
       "geometry": {
         "type": "Point",
@@ -869,7 +893,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Industrial Environmental Improvement Program",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 1378,
+        "Project Lead": "Evergreen: Your North Brooklyn Business Exchange",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Ind-Env-Imp-1_web.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "GCEF Grant Money": "$99,950"
       },
       "geometry": {
         "type": "Point",
@@ -883,7 +912,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Lead in Garden Soil Outreach Project",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 1394,
+        "Project Lead": "Neighbors Allied for Good Growth",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_leadinsoil2_web.jpg",
+        "Category": "Environmental Education and Stewardship",
+        "GCEF Grant Money": "$35,737"
       },
       "geometry": {
         "type": "Point",
@@ -897,7 +931,12 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Reduce Reuse Recycle Greenpoint! (Restaurants)",
-        "Greenpoint Wide": "yes"
+        "Greenpoint Wide": "yes",
+        "id": 1370,
+        "Project Lead": "Neighbors Allied for Good Growth",
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Recycle-Reuse3.jpg",
+        "Category": "Greening Community Buildings, Facilities and Infrastructure",
+        "GCEF Grant Money": "$27,722"
       },
       "geometry": {
         "type": "Point",
