@@ -9,7 +9,9 @@
         "Project Lead": "Greenpoint Reformed Church",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Reform-Church-3-sm.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
-        "GCEF Grant Money": "$5,000"
+        "GCEF Grant Money": "$5,000",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +65,9 @@
         "Project Lead": "North Brooklyn Boat Club",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/ed_shed1sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$24,426"
+        "GCEF Grant Money": "$24,426",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +85,9 @@
         "Project Lead": "Greenpoint Chamber of Commerce and Groundswell Community Mural Project, Inc",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/EJ-Mural-2sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$25,000"
+        "GCEF Grant Money": "$25,000",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +105,8 @@
         "Project Name": "Floating Classrooms on Greenpoint's Waterways",
         "id": 561,
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/fc2_sm-585x347.jpg",
-        "GCEF Grant Money": "$24,693"
+        "GCEF Grant Money": "$24,693",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +124,8 @@
         "Category": "Environmental Education and Stewardship",
         "Project Lead": "Audubon New York/National Audubon Society ",
         "id": 576,
-        "GCEF Grant Money": "$76,000"
+        "GCEF Grant Money": "$76,000",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -130,12 +138,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Project Name": "For the Birds! Greenpoint at St. Stan Kostka Catholic Academy",
+        "Project Name": "For the Birds! Greenpoint at St. Stanislaus Kostka Catholic Academy",
         "Project Lead": "Audubon New York/National Audubon Society",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/birds2_ststan_sm-585x347.jpg",
         "id": 562,
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$72,260"
+        "GCEF Grant Money": "$72,260",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +162,8 @@
         "Category": "Environmental Education and Stewardship",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Cover-Image14-585x347.jpg",
         "id": 577,
-        "GCEF Grant Money": "$22,750"
+        "GCEF Grant Money": "$22,750",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +181,9 @@
         "Category": "Environmental Education and Stewardship",
         "id": 1157,
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
-        "GCEF Grant Money": "$24,954"
+        "GCEF Grant Money": "$24,954",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +201,8 @@
         "Project Lead": "Solar One",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$24,954"
+        "GCEF Grant Money": "$24,954",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +220,9 @@
         "Project Lead": "YMCA of Greater New York - Greenpoint Branch",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/greentweens_ymca1_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$84,110"
+        "GCEF Grant Money": "$84,110",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +240,9 @@
         "Project Lead": "New York City Audubon Society",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Urban-Oasis-7-sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$5,669"
+        "GCEF Grant Money": "$5,669",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +494,9 @@
         "Category": "Environmental Education and Stewardship",
         "id": 1390,
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
-        "GCEF Grant Money": "$82,962"
+        "GCEF Grant Money": "$82,962",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +514,8 @@
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$82,962"
+        "GCEF Grant Money": "$82,962",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +533,8 @@
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$82,962"
+        "GCEF Grant Money": "$82,962",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +552,8 @@
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$82,962"
+        "GCEF Grant Money": "$82,962",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +571,8 @@
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$82,962"
+        "GCEF Grant Money": "$82,962",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +590,9 @@
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$1,958,753"
+        "GCEF Grant Money": "$1,958,753",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +610,8 @@
         "id": 1121,
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
-        "GCEF Grant Money": "$1,958,753"
+        "GCEF Grant Money": "$1,958,753",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +629,8 @@
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$1,958,753"
+        "GCEF Grant Money": "$1,958,753",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +648,8 @@
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$1,958,753"
+        "GCEF Grant Money": "$1,958,753",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +667,9 @@
         "Project Lead": "Eyebeam Atelier",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SCkidsonbike_sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$52,600"
+        "GCEF Grant Money": "$52,600",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -765,7 +795,8 @@
         "id": 1381,
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/green-buffers3_web-585x347.jpg",
         "Category": "Green Streets and Community Greening",
-        "GCEF Grant Money": "$97,675"
+        "GCEF Grant Money": "$97,675",
+        "Status": ""
       },
       "geometry": {
         "type": "Point",
@@ -822,7 +853,8 @@
         "Project Lead": "Town Square",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gogreen2_website.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$58,450"
+        "GCEF Grant Money": "$58,450",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -879,7 +911,8 @@
         "Project Lead": "Greenpoint Waterfront Association for Parks and Planning",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gwapp_mtg1_sm.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$11,700"
+        "GCEF Grant Money": "$11,700",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -917,7 +950,8 @@
         "Project Lead": "Neighbors Allied for Good Growth",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_leadinsoil2_web.jpg",
         "Category": "Environmental Education and Stewardship",
-        "GCEF Grant Money": "$35,737"
+        "GCEF Grant Money": "$35,737",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
