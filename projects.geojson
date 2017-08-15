@@ -29,7 +29,9 @@
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/LivingDockCelebration4_sm-585x347.jpg",
         "Category": "Waterfront Restoration and Infrastructure",
-        "GCEF Grant Money": "$24,980"
+        "GCEF Grant Money": "$24,980",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -440,7 +442,9 @@
         "Project Lead": "The Greenpoint Monitor Museum",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/monitor-museum1-585x347.jpg",
         "Category": "Waterfront Restoration and Infrastructure",
-        "GCEF Grant Money": "$599,200"
+        "GCEF Grant Money": "$599,200",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -458,7 +462,8 @@
         "Project Lead": "Newtown Creek Alliance",
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SAMPLES1_web-585x347.jpg",
-        "GCEF Grant Money": "$35,000"
+        "GCEF Grant Money": "$35,000",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
@@ -476,7 +481,9 @@
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/North-Henry-1-sm-585x347.jpg",
         "Project Lead": "Newtown Creek Alliance",
-        "GCEF Grant Money": "$24,735"
+        "GCEF Grant Money": "$24,735",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -494,7 +501,9 @@
         "Project Lead": "Brooklyn Greenway Initiative ",
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/west-st-stroke-585x347.jpg",
-        "GCEF Grant Money": "$3,557,595"
+        "GCEF Grant Money": "$3,557,595",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +810,9 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/Constructed-Wetlands-with-Bulkheads_sm-585x347.jpg",
         "Project Lead": "Research Foundation of CUNY (LaGuardia Community College)",
         "id": 1128,
-        "GCEF Grant Money": "$130,178"
+        "GCEF Grant Money": "$130,178",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -860,7 +871,8 @@
         "Project Lead": "Build It Green!NYC",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Compost-2sm.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
-        "GCEF Grant Money": "$12,500"
+        "GCEF Grant Money": "$12,500",
+        "Status": ""
       },
       "geometry": {
         "type": "Point",
