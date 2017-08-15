@@ -47,7 +47,9 @@
         "Project Lead": "Dupont Street Senior HDFC",
         "id": 1366,
         "Project Name": "Dupont Street Senior HDFC Garden",
-        "GCEF Grant Money": "$5,000"
+        "GCEF Grant Money": "$5,000",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +262,9 @@
         "Category": "Green Streets and Community Greening",
         "Project Lead": "Center for Educational Innovation - Public Education Association and MS 126",
         "id": 449,
-        "GCEF Grant Money": "$24,998"
+        "GCEF Grant Money": "$24,998",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -296,7 +300,9 @@
         "Project Lead": "Brooklyn Public Library ",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/BPL-Greenpoint-exterior-rendering-585x347.jpg",
         "id": 1123,
-        "GCEF Grant Money": "$5,000,000"
+        "GCEF Grant Money": "$5,000,000",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +320,9 @@
         "id": 1409,
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/nc_wildflower2_web-585x347.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
-        "GCEF Grant Money": "$971,782"
+        "GCEF Grant Money": "$971,782",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -332,7 +340,9 @@
         "Project Lead": "61 Franklin Street Garden",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/61franklin1_sm-585x347.jpg",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$25,000"
+        "GCEF Grant Money": "$25,000",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -350,7 +360,9 @@
         "Category": "Parks and Open Space",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Java5_sm-585x347.jpg",
         "Project Lead": "Java Street Community Garden, Open Space Alliance for North Brooklyn",
-        "GCEF Grant Money": "$49,398"
+        "GCEF Grant Money": "$49,398",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +380,9 @@
         "Project Lead": "GrowNYC",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/mccarren-farm1-585x347.jpg",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$477,084"
+        "GCEF Grant Money": "$477,084",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -386,7 +400,9 @@
         "Category": "Parks and Open Space",
         "id": 481,
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Urban-Oasis-7-sm-585x347.jpg",
-        "GCEF Grant Money": "$24,871"
+        "GCEF Grant Money": "$24,871",
+        "Status": "completed",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -404,7 +420,9 @@
         "Project Lead": "Horticultural Society of New York",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/09/23.-October-09-2013-585x347.png",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$562,056"
+        "GCEF Grant Money": "$562,056",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -687,7 +705,9 @@
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$99,000"
+        "GCEF Grant Money": "$99,000",
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +725,8 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
         "id": 1362,
-        "GCEF Grant Money": "$99,000"
+        "GCEF Grant Money": "$99,000",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -723,7 +744,8 @@
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$99,000"
+        "GCEF Grant Money": "$99,000",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +763,8 @@
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$99,000"
+        "GCEF Grant Money": "$99,000",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -759,7 +782,8 @@
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
-        "GCEF Grant Money": "$99,000"
+        "GCEF Grant Money": "$99,000",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -796,7 +820,8 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/green-buffers3_web-585x347.jpg",
         "Category": "Green Streets and Community Greening",
         "GCEF Grant Money": "$97,675",
-        "Status": ""
+        "Status": "ongoing",
+        "Greenpoint Wide": ""
       },
       "geometry": {
         "type": "Point",
@@ -815,7 +840,8 @@
         "Greenpoint Wide": "yes",
         "Category": "Green Streets and Community Greening",
         "Project Lead": "North Brooklyn Chamber of Commerce",
-        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/cyl_dayof2_sm.jpg"
+        "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/cyl_dayof2_sm.jpg",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +899,8 @@
         "Project Lead": "City Parks Foundation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/India-St-Ash-Trees.jpg",
         "Category": "Green Streets and Community Greening",
-        "GCEF Grant Money": "$1,950,719"
+        "GCEF Grant Money": "$1,950,719",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -892,7 +919,8 @@
         "Project Lead": "New York City Industrial & Technology Assistance Corporation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_warehouse_flickr_DennisHurd_web.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
-        "GCEF Grant Money": "$100,000"
+        "GCEF Grant Money": "$100,000",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -931,7 +959,8 @@
         "Project Lead": "Evergreen: Your North Brooklyn Business Exchange",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Ind-Env-Imp-1_web.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
-        "GCEF Grant Money": "$99,950"
+        "GCEF Grant Money": "$99,950",
+        "Status": "ongoing"
       },
       "geometry": {
         "type": "Point",
@@ -970,7 +999,8 @@
         "Project Lead": "Neighbors Allied for Good Growth",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Recycle-Reuse3.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
-        "GCEF Grant Money": "$27,722"
+        "GCEF Grant Money": "$27,722",
+        "Status": "completed"
       },
       "geometry": {
         "type": "Point",
