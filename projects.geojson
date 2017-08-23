@@ -397,7 +397,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Project Name": "Urban Oasis in McGolrick Park",
+        "Project Name": "Urban Oasis in Monsignor McGolrick Park",
         "Project Lead": "New York Audubon Society",
         "Category": "Parks and Open Space",
         "id": 481,
@@ -462,7 +462,7 @@
         "Project Lead": "Newtown Creek Alliance",
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SAMPLES1_web-585x347.jpg",
-        "GCEF Grant Money": "$35,000",
+        "GCEF Grant Money": "$34,985",
         "Status": "completed"
       },
       "geometry": {
