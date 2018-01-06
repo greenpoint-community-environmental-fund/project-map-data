@@ -65,7 +65,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Environmental Education Shed",
-        "id": 434,
+        "id": "environmental-education-shed",
         "Project Lead": "North Brooklyn Boat Club",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/ed_shed1sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -107,7 +107,7 @@
         "Project Lead": "North Brooklyn Boat Club",
         "Category": "Environmental Education and Stewardship",
         "Project Name": "Floating Classrooms on Greenpoint's Waterways",
-        "id": 561,
+        "id": "floating-classrooms-on-greenpoints-waterways",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/fc2_sm-585x347.jpg",
         "GCEF Grant Money": "$24,693",
         "Status": "completed"
@@ -145,7 +145,7 @@
         "Project Name": "For the Birds! Greenpoint at St. Stanislaus Kostka Catholic Academy",
         "Project Lead": "Audubon New York/National Audubon Society",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/birds2_ststan_sm-585x347.jpg",
-        "id": 562,
+        "id": "for-the-birds-greenpoint-at-st-stanislaus-kostka-catholic-academy",
         "Category": "Environmental Education and Stewardship",
         "GCEF Grant Money": "$72,260",
         "Status": "ongoing"
@@ -280,7 +280,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Keeping Cigarette Butts out of Newton Creek",
-        "id": 450,
+        "id": "keeping-cigarette-butts-out-of-newtown-creek",
         "Project Lead": "North Brooklyn Boat Club",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/cig-butts2_LTruettner_sm-585x347.jpg",
         "Category": "Green Streets and Community Greening",
@@ -458,7 +458,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Newtown Creek SAMPLES: Studying Water Quality for Public Learning and Ecological Services",
-        "id": 1357,
+        "id": "newtown-creek-samples-studying-water-quality-for-public-learning-and-ecological-services",
         "Project Lead": "Newtown Creek Alliance",
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SAMPLES1_web-585x347.jpg",
@@ -477,7 +477,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "North Henry Street End Restoration Planning",
-        "id": 452,
+        "id": "north-henry-street-end-restoration-planning",
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/North-Henry-1-sm-585x347.jpg",
         "Project Lead": "Newtown Creek Alliance",
@@ -519,7 +519,7 @@
         "Project Name": "Greenpoint Bioremediation Project",
         "Project Lead": "Newtown Creek Alliance",
         "Category": "Environmental Education and Stewardship",
-        "id": 1390,
+        "id": "greenpoint-bioremediation-project",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "GCEF Grant Money": "$81,928",
         "Status": "completed",
@@ -537,7 +537,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Bioremediation Project",
-        "id": 1390,
+        "id": "greenpoint-bioremediation-project",
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -556,7 +556,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Bioremediation Project",
-        "id": 1390,
+        "id": "greenpoint-bioremediation-project",
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -575,7 +575,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Bioremediation Project",
-        "id": 1390,
+        "id": "greenpoint-bioremediation-project",
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -594,7 +594,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Bioremediation Project",
-        "id": 1390,
+        "id": "greenpoint-bioremediation-project",
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Bioremediation2_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -809,7 +809,7 @@
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/Constructed-Wetlands-with-Bulkheads_sm-585x347.jpg",
         "Project Lead": "Research Foundation of CUNY (LaGuardia Community College)",
-        "id": 1128,
+        "id": "intertidal-wetland-project",
         "GCEF Grant Money": "$130,178",
         "Status": "ongoing",
         "Greenpoint Wide": ""
@@ -887,7 +887,7 @@
       "properties": {
         "Project Name": "Go Green Activity Hub",
         "Greenpoint Wide": "yes",
-        "id": 1385,
+        "id": "go-green-activity-hub",
         "Project Lead": "Town Square",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gogreen2_website.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -947,7 +947,7 @@
       "properties": {
         "Project Name": "Greenpoint Environmental Forum (Panel Discussion Series)",
         "Greenpoint Wide": "yes",
-        "id": 437,
+        "id": "greenpoint-environmental-forum-panel-discussion-series",
         "Project Lead": "Greenpoint Waterfront Association for Parks and Planning",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gwapp_mtg1_sm.jpg",
         "Category": "Environmental Education and Stewardship",
