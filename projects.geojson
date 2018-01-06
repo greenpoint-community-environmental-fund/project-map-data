@@ -47,7 +47,7 @@
         "Category": "Parks and Open Space",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Dupont1_web.jpg",
         "Project Lead": "Dupont Street Senior HDFC",
-        "id": 1366,
+        "id": "dupont-street-senior-hdfc-garden-renovation",
         "Project Name": "Dupont Street Senior HDFC Garden",
         "GCEF Grant Money": "$5,000",
         "Status": "completed",
@@ -301,7 +301,7 @@
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
         "Project Lead": "Brooklyn Public Library ",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/BPL-Greenpoint-exterior-rendering-585x347.jpg",
-        "id": 1123,
+        "id": "greenpoint-environmental-education-center-at-greenpoint-library",
         "GCEF Grant Money": "$5,000,000",
         "Status": "ongoing",
         "Greenpoint Wide": ""
@@ -613,7 +613,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
-        "id": 1121,
+        "id": "greenpoint-eco-schools-creating-a-legacy-of-sustainability",
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -634,7 +634,7 @@
       "properties": {
         "Category": "Environmental Education and Stewardship",
         "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
-        "id": 1121,
+        "id": "greenpoint-eco-schools-creating-a-legacy-of-sustainability",
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "GCEF Grant Money": "$1,958,753",
@@ -652,7 +652,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
-        "id": 1121,
+        "id": "greenpoint-eco-schools-creating-a-legacy-of-sustainability",
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -671,7 +671,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Eco Schools: Creating a Legacy of Sustainability",
-        "id": 1121,
+        "id": "greenpoint-eco-schools-creating-a-legacy-of-sustainability",
         "Project Lead": "National Wildlife Federation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/NWF-2-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -846,7 +846,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Curb Your Litter: Greenpoint",
-        "id": 1118,
+        "id": "curb-your-litter-greenpoint",
         "GCEF Grant Money": "$471,600",
         "Greenpoint Wide": "yes",
         "Category": "Green Streets and Community Greening",
