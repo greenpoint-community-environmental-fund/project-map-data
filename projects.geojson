@@ -25,7 +25,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "The Living Dock",
-        "id": 453,
+        "id": "the-living-dock",
         "Project Lead": "Newtown Creek Alliance",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/LivingDockCelebration4_sm-585x347.jpg",
         "Category": "Waterfront Restoration and Infrastructure",
@@ -438,7 +438,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Monitor Museum USS Monitor Park",
-        "id": 1419,
+        "id": "greenpoint-monitor-museum-uss-monitor-park",
         "Project Lead": "The Greenpoint Monitor Museum",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/monitor-museum1-585x347.jpg",
         "Category": "Waterfront Restoration and Infrastructure",
