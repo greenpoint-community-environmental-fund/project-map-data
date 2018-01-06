@@ -85,7 +85,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Environmentally Themed Mural",
-        "id": 560,
+        "id": "environmentally-themed-mural",
         "Project Lead": "North Brooklyn Chamber of Commerce and Groundswell Community Mural Project",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/EJ-Mural-2sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -127,7 +127,7 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/For-the-Birds-3-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
         "Project Lead": "Audubon New York/National Audubon Society ",
-        "id": 576,
+        "id": "for-the-birds-greenpoint-at-p-s-110-the-monitor-school",
         "GCEF Grant Money": "$76,700",
         "Status": "ongoing"
       },
@@ -165,7 +165,7 @@
         "Project Lead": "YMCA of Greater New York - Greenpoint Branch",
         "Category": "Environmental Education and Stewardship",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Cover-Image14-585x347.jpg",
-        "id": 577,
+        "id": "green-beans-environmental-education",
         "GCEF Grant Money": "$22,750",
         "Status": "completed"
       },
@@ -183,7 +183,7 @@
         "Project Name": "Green Design Lab Environmental Education Program",
         "Project Lead": "Solar One",
         "Category": "Environmental Education and Stewardship",
-        "id": 1157,
+        "id": "green-design-lab-environmental-education-program",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
         "GCEF Grant Money": "$22,954",
         "Status": "completed",
@@ -201,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Green Design Lab Environmental Education Program",
-        "id": 1157,
+        "id": "green-design-lab-environmental-education-program",
         "Project Lead": "Solar One",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/solarone1_sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -220,7 +220,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Green Tweens STEM Summer Program at the Y",
-        "id": 1395,
+        "id": "green-tweens-stem-summer-program-at-the-y",
         "Project Lead": "YMCA of Greater New York - Greenpoint Branch",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/greentweens_ymca1_web-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -240,7 +240,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Urban Birds of McGolrick Park",
-        "id": 1396,
+        "id": "urban-birds-of-monsignor-mcgolrick-park",
         "Project Lead": "New York City Audubon Society",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Urban-Oasis-7-sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -263,7 +263,7 @@
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Wildlife-Restoration-1-585x347.png",
         "Category": "Green Streets and Community Greening",
         "Project Lead": "Center for Educational Innovation - Public Education Association and John Ericsson M.S. 126",
-        "id": 449,
+        "id": "brooklyn-native-wildlife-restoration-project-at-john-ericsson-m-s-126",
         "GCEF Grant Money": "$24,998",
         "Status": "completed",
         "Greenpoint Wide": ""
@@ -319,7 +319,7 @@
       "properties": {
         "Project Lead": "New York City Audubon Society",
         "Project Name": "Newtown Creek Wildflower Roof and Community Space",
-        "id": 1409,
+        "id": "newtown-creek-wildflower-roof-and-community-space",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/nc_wildflower2_web-585x347.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
         "GCEF Grant Money": "$971,782",
@@ -338,7 +338,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "61 Franklin St. Garden Infrastructure and Rain Harvest Build",
-        "id": 451,
+        "id": "61-franklin-street-garden-infrastructure-and-rain-harvest-build",
         "Project Lead": "61 Franklin Street Garden",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/61franklin1_sm-585x347.jpg",
         "Category": "Parks and Open Space",
@@ -358,7 +358,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Improving Sustainable Practices at Java St. Community Garden",
-        "id": 476,
+        "id": "improving-sustainable-practices-at-java-street-community-garden",
         "Category": "Parks and Open Space",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Java5_sm-585x347.jpg",
         "Project Lead": "Java Street Community Garden, Open Space Alliance for North Brooklyn",
@@ -377,7 +377,7 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1412,
+        "id": "mccarren-park-urban-farms-and-green-infrastructure-corridor",
         "Project Name": "McCarren Park Urban Farms and Green Infrastructure Corridor",
         "Project Lead": "GrowNYC",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/mccarren-farm1-585x347.jpg",
@@ -400,7 +400,7 @@
         "Project Name": "Urban Oasis in Monsignor McGolrick Park",
         "Project Lead": "New York Audubon Society",
         "Category": "Parks and Open Space",
-        "id": 481,
+        "id": "urban-oasis-in-monsignor-mcgolrick-park",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Urban-Oasis-7-sm-585x347.jpg",
         "GCEF Grant Money": "$24,871",
         "Status": "completed",
@@ -418,7 +418,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "McGolrick Park Restoration",
-        "id": 1416,
+        "id": "monsignor-mcgolrick-park-restoration",
         "Project Lead": "Horticultural Society of New York",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/09/23.-October-09-2013-585x347.png",
         "Category": "Parks and Open Space",
@@ -497,7 +497,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "West Street Watershed Stormwater Project",
-        "id": 1131,
+        "id": "west-street-watershed-stormwater-project",
         "Project Lead": "Brooklyn Greenway Initiative ",
         "Category": "Waterfront Restoration and Infrastructure",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/west-st-stroke-585x347.jpg",
@@ -690,7 +690,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Soil Cycle: A Mobile Compost Initiative",
-        "id": 588,
+        "id": "soil-cycle-a-mobile-compost-initiative",
         "Project Lead": "Eyebeam Atelier",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/SCkidsonbike_sm-585x347.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -710,7 +710,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Parks Community Stewardship",
-        "id": 1362,
+        "id": "greenpoint-parks-community-stewardship-program",
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
@@ -733,7 +733,7 @@
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
-        "id": 1362,
+        "id": "greenpoint-parks-community-stewardship-program",
         "GCEF Grant Money": "$99,000",
         "Status": "ongoing"
       },
@@ -749,7 +749,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Parks Community Stewardship",
-        "id": 1362,
+        "id": "greenpoint-parks-community-stewardship-program",
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
@@ -768,7 +768,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Parks Community Stewardship",
-        "id": 1362,
+        "id": "greenpoint-parks-community-stewardship-program",
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
@@ -787,7 +787,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Greenpoint Parks Community Stewardship",
-        "id": 1362,
+        "id": "greenpoint-parks-community-stewardship-program",
         "Project Lead": "Open Space Alliance for North Brooklyn",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Parks-Stewardship1_web-585x347.jpg",
         "Category": "Parks and Open Space",
@@ -827,7 +827,7 @@
       "properties": {
         "Project Name": "Creating Green Buffers in the Greenpoint Industrial Area: A Community Planning Initiative",
         "Project Lead": "New York City Soil & Water Conservation District",
-        "id": 1381,
+        "id": "creating-green-buffers-in-the-greenpoint-industrial-area-a-community-planning-initiative",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/green-buffers3_web-585x347.jpg",
         "Category": "Green Streets and Community Greening",
         "GCEF Grant Money": "$97,675",
@@ -866,7 +866,7 @@
       "type": "Feature",
       "properties": {
         "Project Name": "Feasibility Study for Community Compost Site",
-        "id": 587,
+        "id": "feasibility-study-for-greenpoint-community-compost-site",
         "Greenpoint Wide": "yes",
         "Project Lead": "Build It Green!NYC",
         "Image URL": "http://gcefund.org/wp-content/uploads/2014/11/Greenpoint-Compost-2sm.jpg",
@@ -907,7 +907,7 @@
       "properties": {
         "Project Name": "Greening Greenpoint",
         "Greenpoint Wide": "yes",
-        "id": 1125,
+        "id": "greening-greenpoint",
         "Project Lead": "City Parks Foundation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/08/India-St-Ash-Trees.jpg",
         "Category": "Green Streets and Community Greening",
@@ -927,7 +927,7 @@
       "properties": {
         "Project Name": "Greenpoint Business Environmental Stewardship",
         "Greenpoint Wide": "yes",
-        "id": 1375,
+        "id": "greenpoint-business-environmental-stewardship",
         "Project Lead": "New York City Industrial & Technology Assistance Corporation",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_warehouse_flickr_DennisHurd_web.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
@@ -967,7 +967,7 @@
       "properties": {
         "Project Name": "Greenpoint Industrial Environmental Improvement Program",
         "Greenpoint Wide": "yes",
-        "id": 1378,
+        "id": "greenpoint-industrial-environmental-improvement-program",
         "Project Lead": "Evergreen: Your North Brooklyn Business Exchange",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/GP-Ind-Env-Imp-1_web.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
@@ -987,7 +987,7 @@
       "properties": {
         "Project Name": "Greenpoint Lead in Garden Soil Outreach Project",
         "Greenpoint Wide": "yes",
-        "id": 1394,
+        "id": "greenpoint-lead-in-garden-soil-outreach-project",
         "Project Lead": "Neighbors Allied for Good Growth",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/gp_leadinsoil2_web.jpg",
         "Category": "Environmental Education and Stewardship",
@@ -1007,7 +1007,7 @@
       "properties": {
         "Project Name": "Reduce Reuse Recycle Greenpoint! (Restaurants)",
         "Greenpoint Wide": "yes",
-        "id": 1370,
+        "id": "reduce-reuse-recycle-greenpoint-restaurants",
         "Project Lead": "Neighbors Allied for Good Growth",
         "Image URL": "http://gcefund.org/wp-content/uploads/2015/12/Recycle-Reuse3.jpg",
         "Category": "Greening Community Buildings, Facilities and Infrastructure",
